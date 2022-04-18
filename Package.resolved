@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "wasmcallablekit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sidepelican/WasmCallableKit.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "beff65ce9ea4d76491afbc5f2e7c5dc95e0af06c"
+      }
+    }
+  ],
+  "version" : 2
+}
